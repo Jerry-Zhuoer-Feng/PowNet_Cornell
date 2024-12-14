@@ -1,0 +1,5 @@
+name,typ,node,maxcap,mincap,heat_rate,var_om,fix_om,st_cost,ramp ,minup,mindn
+Cornell_CEP,gas,CORN1,30,0,4.3744,0.38,1.268,70,30,1,1
+NYS_Grid,slack,CORN1,10000,0,3.412,0,0,70,30,1,1
+Cornell_CUBO,geothermal,CORN2,3,0,3.412,1.16,4,70,3,1,1
+Cornell_Hydrogen,hydrogen,CORN2,15,0,5.6867,0.38,1.268,70,15,1,1
