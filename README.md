@@ -10,5 +10,5 @@ We crafted 5 scenarios plus the current infrastructure set up:
 2. Business-as-Usual (BaU): Existing Infrastructure + Hydrogen/Geothermal with real life data or best estimates
 3. Oil & Gas Crisis: Natural gas price + 400%
 4. Social Cost of CO2: Fuel Price + Social Cost of Carbon @ $185 per ton of CO2 (Rennert, K. et al. *Nature*. 2022)
-5. Aggresive Solar: NY Large Scale Renewable Energy (LSRE) fully online @ 110 MW, all electricity go to Cornell
+5. Aggresive Solar: NY Large Scale Renewable Energy (LSRE) fully online @ 110 MW, all electricity goes to Cornell
 6. More Boreholes: Geothermal Potential + 200%
